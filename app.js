@@ -1,4 +1,2 @@
 // commento
-//Hatice Onat
-//Marco Robol
-//DOGE
+// Gabriele Bottamedi
